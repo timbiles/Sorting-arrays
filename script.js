@@ -6,7 +6,10 @@
     //// Array sort prototype ////
 
     const nums = [7, 1, 45, 235, 6, 35, 467, 26, 0]
-    
+
+    const addSort = document.querySelector('input.input-sort')
+    const addSortButton = document.querySelector('button.btn-sort');
+
     // nums.sort((a, b) => a - b)
 
     // console.log(nums)
